@@ -1,4 +1,14 @@
-### Hi there 👋
+# WuChenDi
+
+Hi there 👋 I'm Di-got / ChenDi Wu, yet another frontend developer.
+
+💻 Works
+
+[![image](https://img.shields.io/badge/语雀-1204-blue.svg)](https://www.yuque.com/wuchendi/fe)
+
+😄 Me
+
+Front-End developer
 
 <!--
 **WuChenDi/WuChenDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
