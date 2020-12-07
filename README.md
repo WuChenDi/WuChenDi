@@ -1,10 +1,11 @@
+
 # WuChenDi
 
 Hi there 👋 I'm Di-got / ChenDi Wu, yet another frontend developer.
 
 💻 Works
 
-[![image](https://img.shields.io/badge/语雀-1204-blue.svg)](https://www.yuque.com/wuchendi/fe)
+[![image](https://img.shields.io/badge/语雀-1204-green.svg)](https://www.yuque.com/wuchendi/fe)
 
 😄 Me
 
