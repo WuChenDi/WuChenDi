@@ -11,7 +11,9 @@ Hi there 👋 I'm Di-got / WuChenDi, yet another frontend developer.
 
 Front-End developer
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&theme=light)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&theme=tokyonight&hide_title=true)
+
+![WuChenDi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuChenDi&theme=dracula&layout=compact&card)
 
 <!--
 **WuChenDi/WuChenDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
