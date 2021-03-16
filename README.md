@@ -22,13 +22,13 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-4D545D?logo=Jenkins&logoColor=fff)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?logo=Nginx&logoColor=fff)
 
-## 🌱 Blog
+## 🌱 Links
 
 [![yuque](https://img.shields.io/badge/语雀-WuChenDi-25B864.svg)](https://www.yuque.com/wuchendi/fe)
-
-## 📫 How to reach me
-
 [![GitHub](https://img.shields.io/badge/WuChenDi-0D1117?logo=Github&logoColor=fff)](https://github.com/WuChenDi)
+
+## 📫 Contacts
+
 [![Email](https://img.shields.io/badge/996194720@qq.com-3E659E?logo=Minutemailer&logoColor=fff)](mailto:996194720@qq.com)
 
 ## 💬 Stats and Langs
