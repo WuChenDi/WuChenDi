@@ -2,6 +2,14 @@
 
 > I'm Di-got, a frontend developer.
 
+<a href="https://github.com/WuChenDi?tab=repositories&q=&type=source">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuChenDi&theme=dracula&layout=compact&card" />
+</a>
+
+<a href="https://github.com/WuChenDi?tab=repositories&q=&type=source">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&theme=tokyonight" alt="WuChenDi's github stats" />
+</a>
+
 ## 🛠 Tech Stack and Tools
 
 ### Front-End
@@ -47,9 +55,6 @@
 
 [![yuque](https://img.shields.io/badge/语雀-WuChenDi-25B864.svg)](https://www.yuque.com/wuchendi/fe)
 [![GitHub](https://img.shields.io/badge/WuChenDi-0D1117?logo=Github&logoColor=fff)](https://github.com/WuChenDi)
-
-![WuChenDi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuChenDi&theme=dracula&layout=compact&card)
-![Di-got's Github Stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&theme=tokyonight)
 
 ![WuChenDi](https://komarev.com/ghpvc/?username=WuChenDi)
 
