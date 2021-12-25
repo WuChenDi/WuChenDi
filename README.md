@@ -2,8 +2,8 @@
 
 > I'm Di-got, a frontend developer.
 
-<a href="https://github.com/WuChenDi?tab=repositories&q=&type=source">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuChenDi&theme=dracula&layout=compact&card" />
+<a href="https://profile.codersrank.io/user/WuChenDi">
+  <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WuChenDi" />
 </a>
 
 <a href="https://github.com/WuChenDi?tab=repositories&q=&type=source">
