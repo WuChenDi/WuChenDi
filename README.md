@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/WuChenDi?tab=repositories&q=&type=source">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&theme=tokyonight" alt="WuChenDi's github stats" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&hide_title=true" alt="WuChenDi's github stats" />
 </a>
 
 ## 🛠 Tech Stack and Tools
