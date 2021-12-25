@@ -24,3 +24,5 @@ I'm Di-got, a frontend developer.
 ### ❤️ GitHub Stats
 
 ![Di-got's Github Stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=WuChenDi)
