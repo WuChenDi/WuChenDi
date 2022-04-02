@@ -1,3 +1,10 @@
+<h6 align="right" style="display: 'flex'; align-items: center;">
+  <code><a href="mailto:996194720@qq.com" title="Click to send me an email"><img height="24" src="images/mail.svg" />  </a></code>
+  <code><a href="https://www.yuque.com/wuchendi/fe" title="WuChenDi's yuque"><img height="24" src="images/yuque.svg" />  </a></code>
+  <code><a href="https://github.com/WuChenDi" title="WuChenDi's GitHhub"><img height="24" src="images/github.svg" />  </a></code>
+  <code><img src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
+</h6>
+
 # Hi there 👋
 
 > I'm Di-got, a frontend developer.
@@ -5,6 +12,8 @@
 <a href="https://profile.codersrank.io/user/WuChenDi">
   <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WuChenDi" />
 </a>
+
+<!-- <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=WuChenDi&hide_border=true" alt="WuChenDi's github stats" /> -->
 
 <a href="https://github.com/WuChenDi?tab=repositories&q=&type=source">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&hide_title=true" alt="WuChenDi's github stats" />
@@ -51,16 +60,10 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=fff)
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=Google-Chrome&logoColor=fff)
 
-### Reach Me
-
-[![yuque](https://img.shields.io/badge/语雀-WuChenDi-25B864.svg)](https://www.yuque.com/wuchendi/fe)
-[![GitHub](https://img.shields.io/badge/WuChenDi-0D1117?logo=Github&logoColor=fff)](https://github.com/WuChenDi)
-
-![WuChenDi](https://komarev.com/ghpvc/?username=WuChenDi)
-
 <!-- ↓ Reference -->
 <!-- https://github.com/seognil -->
 <!-- https://github.com/syfxlin/syfxlin -->
+<!-- https://github.com/adajuly/adajuly -->
 
 <!-- https://shields.io/category/other -->
 <!-- https://simpleicons.org/ -->
