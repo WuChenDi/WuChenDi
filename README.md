@@ -19,6 +19,10 @@
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&hide_title=true" alt="WuChenDi's github stats" />
 </a>
 
+<!-- <a href="https://activity-graph.herokuapp.com/graph?username=WuChenDi&theme=github&hide_border=true">
+  <img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=WuChenDi&theme=github&hide_border=true" />
+</a> -->
+
 ## 🛠 Tech Stack and Tools
 
 ### Front-End
