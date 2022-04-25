@@ -1,0 +1,23 @@
+{
+  "name": "WuChenDi",
+  "version": "0.0.0",
+  "description": "Hi, I am Di-got",
+  "bugs": "https://github.com/WuChenDi/WuChenDi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WuChenDi/WuChenDi/"
+  },
+  "funding": "https://github.com/sponsors/WuChenDi",
+  "license": "MIT",
+  "author": "WuChenDi <996194720@qq.com>",
+  "main": "index.js",
+  "bin": {
+    "WuChenDi": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
