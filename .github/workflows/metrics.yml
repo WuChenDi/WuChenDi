@@ -18,7 +18,7 @@ jobs:
           # Options
           filename: metrics.svg
           user: WuChenDi
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
           config_twemoji: yes
           # plugin_languages: yes
