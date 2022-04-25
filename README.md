@@ -68,6 +68,7 @@
 <!-- https://github.com/seognil -->
 <!-- https://github.com/syfxlin/syfxlin -->
 <!-- https://github.com/adajuly/adajuly -->
+<!-- https://github.com/antfu/antfu -->
 
 <!-- https://shields.io/category/other -->
 <!-- https://simpleicons.org/ -->
