@@ -5,9 +5,9 @@
   <code><img src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
 </h6>
 
-# Hi there 👋
+# Di-got (@WuChenDi)
 
-> I'm Di-got, a frontend developer.
+> Hi there 👋 I'm Di-got (@WuChenDi), a frontend developer.
 
 <a href="https://profile.codersrank.io/user/WuChenDi">
   <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=WuChenDi" />
