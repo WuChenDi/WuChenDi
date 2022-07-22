@@ -18,5 +18,6 @@ Learning in web3
 - Code: VScode + Tabnine, occasionally use Webstorm
 - Write: yuque
 - Todo: WXWork
+- Find me: [telegram](https://t.me/wuchendi)
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
