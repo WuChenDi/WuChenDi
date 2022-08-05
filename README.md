@@ -1,4 +1,4 @@
-### Hi there，I'm Di-got (wudi)👋
+### Hi there，I'm WuChenDi (wudi)👋
 
 Learning in web3
 
