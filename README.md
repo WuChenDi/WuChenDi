@@ -23,6 +23,10 @@
   <img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=WuChenDi&theme=github&hide_border=true" />
 </a> -->
 
+<a href="https://github.com/WuChenDi?tab=repositories&q=&type=source">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuChenDi&hide=html&layout=compact&langs_count=8" alt="Languages" />
+</a>
+
 ## 🛠 Tech Stack and Tools
 
 ### Front-End
