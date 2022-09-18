@@ -17,6 +17,7 @@ Learning in web3
 
 - Code: VScode + Tabnine, occasionally use Webstorm
 - Write: yuque
+- Draw: Figma
 - Todo: WXWork
 - Find me: [telegram](https://t.me/wuchendi)
 
