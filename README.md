@@ -19,6 +19,6 @@ Learning in web3
 - Write: yuque
 - Draw: Figma
 - Todo: WXWork
-- Find me: [telegram](https://t.me/wuchendi)
+- Find me: [telegram](https://t.me/wuchendi) / Discord(wudi#4647)
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
