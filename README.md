@@ -1,6 +1,7 @@
 ### Hi there，I'm WuChenDi (wudi)👋
 
-👀 Learning in web3
+Learning English
+<!-- 👀 Learning in web3 -->
 
 ### Languages
 
