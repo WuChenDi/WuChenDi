@@ -1,6 +1,6 @@
 ### Hi there，I'm WuChenDi (wudi)👋
 
-👀 I'm looking for a Frontend job
+I'm looking for a Front-end job...
 <!-- Learning English... -->
 <!-- 👀 Learning in web3 -->
 
