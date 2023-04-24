@@ -18,7 +18,7 @@
 
 ### Daily writing and development tools
 
-- Code: VScode + Tabnine, occasionally use Webstorm
+- Code: VScode + Copilot, occasionally use IDEA
 - Write: yuque
 - Draw: Figma
 - Todo: WXWork
