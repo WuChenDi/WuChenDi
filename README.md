@@ -23,7 +23,6 @@
 - Draw: Figma
 - Todo: WXWork
 - Find me: [telegram](https://t.me/wuchendi) / Discord(wudi#4647)
-- More: [Linktree](https://linktr.ee/wuchendi)
-<!--  or [Bento](https://bento.me/wudi) -->
+<!-- - More: [Linktree](https://linktr.ee/wuchendi) or [Bento](https://bento.me/wudi) -->
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
