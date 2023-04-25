@@ -19,7 +19,7 @@
 ### Daily writing and development tools
 
 - Code: VScode + Copilot, occasionally use IDEA
-- Write: yuque
+- Write: [yuque](https://www.yuque.com/wuchendi)
 - Draw: Figma
 - Todo: WXWork
 - Find me: [telegram](https://t.me/wuchendi) / Discord(wudi#4647)
