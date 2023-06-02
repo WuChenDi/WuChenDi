@@ -1,4 +1,4 @@
-### Hey there，I'm WuChenDi (wudi)👋
+### Hey there，I'm Chendi Wu(wudi)👋
 
 👀 Learning in lowcode
 <!-- I'm looking for a Front-end job... -->
