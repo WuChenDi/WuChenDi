@@ -1,7 +1,7 @@
 ### Hey there，I'm Chendi Wu(wudi)👋
 
-👀 Learning in lowcode
-<!-- I'm looking for a Front-end job... -->
+<!-- 👀 Currently exploring lowcode development -->
+👀 I'm actively seeking a Front-end job opportunity...
 <!-- Learning English... -->
 <!-- 👀 Learning in web3 -->
 
@@ -22,7 +22,7 @@
 - Write: [yuque](https://www.yuque.com/wuchendi)
 - Draw: Figma
 - Todo: WXWork
-- Find me: [telegram](https://t.me/wuchendi) / Discord(wudi#4647)
+- Find me: [telegram](https://t.me/wuchendi) / Discord (wuchendi)
 <!-- - More: [Linktree](https://linktr.ee/wuchendi) or [Bento](https://bento.me/wudi) -->
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
