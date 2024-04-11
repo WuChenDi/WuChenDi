@@ -19,10 +19,10 @@
 ### Daily writing and development tools
 
 - Code: VScode + Copilot, occasionally use IDEA
-- Write: [yuque](https://www.yuque.com/wuchendi)
+- Write: [yuque](https://www.yuque.com/wuchendi), [notes](https://notes-wudi.vercel.app/)
 - Draw: Figma
-- Todo: WXWork
-- Find me: [telegram](https://t.me/wuchendi) / Discord (wuchendi)
+- Todo: DingTalk, WXWork
+- Find me: [Telegram](https://t.me/wuchendi), Discord (wuchendi)
 <!-- - More: [Linktree](https://linktr.ee/wuchendi) or [Bento](https://bento.me/wudi) -->
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
