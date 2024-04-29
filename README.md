@@ -1,6 +1,5 @@
 ### Hey there，I'm Chendi Wu(wudi)👋
 
-<!-- 👀 Currently exploring lowcode development -->
 <!-- 👀 I'm actively seeking a Front-end job opportunity... -->
 👀 Learning English...
 <!-- 👀 Learning in web3 -->
@@ -19,7 +18,7 @@
 ### Daily writing and development tools
 
 - Code: VScode + Copilot, occasionally use IDEA
-- Write: [yuque](https://www.yuque.com/wuchendi), [notes](https://notes-wudi.vercel.app/)
+- Write: [notes](https://notes-wudi.vercel.app/), [yuque](https://www.yuque.com/wuchendi/fe)
 - Draw: Figma
 - Todo: DingTalk, WXWork
 - Find me: [Telegram](https://t.me/wuchendi), Discord (wuchendi)
