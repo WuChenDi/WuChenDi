@@ -1,7 +1,7 @@
 ### Hey there，I'm Chendi Wu(wudi)👋
 
-<!-- 👀 I'm actively seeking a Front-end job opportunity... -->
-👀 Learning English...
+👀 I'm actively seeking a Front-end job opportunity...
+<!-- 👀 Learning English... -->
 <!-- 👀 Learning in web3 -->
 
 ### Languages
