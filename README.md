@@ -25,3 +25,4 @@
 <!-- - More: [Linktree](https://linktr.ee/wuchendi) or [Bento](https://bento.me/wudi) -->
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
+<code><img src="https://wakatime.com/badge/user/3e742698-9e12-4c4e-8c88-1d9dba7e5557.svg" alt="Total time coded since Jul 19 2019" /></code>
