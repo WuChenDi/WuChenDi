@@ -22,6 +22,7 @@
 - Draw: Figma
 - Todo: DingTalk, WXWork
 - Find me: [Telegram](https://t.me/wuchendi), Discord (wuchendi)
+- Ethereum: [wuchendi.eth](https://etherscan.io/address/0xdef9b12373b310ff695cd9e944e10d8a69142896)
 <!-- - More: [Linktree](https://linktr.ee/wuchendi) or [Bento](https://bento.me/wudi) -->
 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
