@@ -18,7 +18,7 @@
 ### Daily writing and development tools
 
 - Code: VScode + Copilot, occasionally use IDEA
-- Write: [notes](https://notes-wudi.vercel.app/), [yuque](https://www.yuque.com/wuchendi/fe)
+- Write: [notes](https://notes-wudi.pages.dev/), [yuque](https://www.yuque.com/wuchendi/fe)
 - Draw: Figma
 - Todo: DingTalk, WXWork
 - Find me: [Telegram](https://t.me/wuchendi), Discord (wuchendi)
