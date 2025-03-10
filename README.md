@@ -1,6 +1,16 @@
+<h1 align="center"> <a href="https://www.hejian.club/"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub"> </a> </h1>
+
+<!-- <picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="[https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)](https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))">
+</picture> -->
+
 ### Hey there，I'm Chendi Wu(wudi)👋
 
-👀 I'm actively seeking remote front-end job opportunities.
+> 👀 找一份 remote 的前端工作，也可以全栈 Node，寻求一份有挑战的工作机会。
+
+<!-- 👀 I'm actively seeking remote front-end job opportunities. -->
 <!-- 👀 Learning English... -->
 <!-- 👀 Learning in web3 -->
 
