@@ -6,7 +6,7 @@
   <img alt="github stats" src="[https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)](https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))">
 </picture> -->
 
-### Hey there，I'm Chendi Wu(wudi)👋
+### 👋 Hey there，I'm Chendi Wu(wudi)
 
 > 👀 找一份遠端的前端工作，也可以是全端（包含 Node）。尋求一份具挑戰性的工作機會。
 >
@@ -17,7 +17,7 @@
 <!-- 👀 Learning English... -->
 <!-- 👀 Learning in web3 -->
 
-### Languages
+### 🛠️ Languages
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -28,7 +28,7 @@
 
 [![WuChenDi's github stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&include_all_commits=true")](https://github.com/WuChenDi?tab=repositories&q=&type=source)
 
-### Daily writing and development tools
+### 🛠️ Daily writing and development tools
 
 - Code: VScode + Copilot, occasionally use IDEA
 - Write: [notes](https://notes-wudi.pages.dev/), [yuque](https://www.yuque.com/wuchendi/fe)
