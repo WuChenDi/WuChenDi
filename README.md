@@ -8,10 +8,11 @@
 
 ### 👋 Hey there，I'm Chendi Wu(wudi)
 
-> 👀 找一份遠端的前端工作，也可以是全端（包含 Node）。尋求一份具挑戰性的工作機會。
->
-> 👀 Looking for a remote `frontend` job, also open to `full-stack` (including Node). Seeking a challenging job opportunity.
+> Try to make some models and datasets.
 
+<!-- > 👀 找一份遠端的前端工作，也可以是全端（包含 Node）。尋求一份具挑戰性的工作機會。
+>
+> 👀 Looking for a remote `frontend` job, also open to `full-stack` (including Node). Seeking a challenging job opportunity. -->
 <!-- > 找一份 remote 的前端工作，也可以全栈 Node，寻求一份有挑战的工作机会。 -->
 <!-- 👀 I'm actively seeking remote front-end job opportunities. -->
 <!-- 👀 Learning English... -->
