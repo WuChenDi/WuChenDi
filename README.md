@@ -29,6 +29,8 @@
 
 [![WuChenDi's github stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&include_all_commits=true")](https://github.com/WuChenDi?tab=repositories&q=&type=source)
 
+<!-- [![WuChenDi's wakatime stats](https://github-readme-stats-amber-xi-40.vercel.app/api/wakatime?username=wudi&langs_count=5&v=2")](https://github.com/WuChenDi?tab=repositories&q=&type=source) -->
+
 ### 🛠️ Daily writing and development tools
 
 - Code: VScode + Copilot, occasionally use IDEA
