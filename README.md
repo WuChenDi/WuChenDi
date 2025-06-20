@@ -8,9 +8,9 @@
 
 ### 👋 Hey there，I'm Chendi Wu(wudi)
 
-> Hey, I am considering looking for remote work opportunities. My resume is [here](https://www.linkedin.com/in/wuchendi/), feel free to hit me up!
+> Hey, I am considering looking for remote work opportunities. My resume is [here](https://wudi-cv.pages.dev/), feel free to hit me up!
 >
-> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://www.linkedin.com/in/wuchendi/)，欢迎来撩我！
+> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://wudi-cv.pages.dev/)，欢迎来撩我！
 
 <!-- > Try to make some models and datasets. -->
 <!-- 👀 Learning English... -->
