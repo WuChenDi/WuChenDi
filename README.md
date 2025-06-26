@@ -1,16 +1,17 @@
 <h1 align="center"> <a href="https://www.hejian.club/"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub"> </a> </h1>
 
-<!-- <picture decoding="async" loading="lazy">
+<!-- Dynamic GitHub stats with light/dark mode support -->
+<!-- <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)">
+  <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=WuChenDi&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)">
 </picture> -->
 
 ### 👋 Hey there，I'm Chendi Wu(wudi)
 
-> Hey, I am considering looking for remote work opportunities. My resume is [here](https://wudi-cv.pages.dev/), feel free to hit me up!
+> Hey, I am considering looking for remote work opportunities. My resume is [here](https://wudi-cv.pages.dev/en), feel free to hit me up!
 >
-> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://wudi-cv.pages.dev/)，欢迎来撩我！
+> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://wudi-cv.pages.dev/zh)，欢迎来撩我！
 
 <!-- > Try to make some models and datasets. -->
 <!-- 👀 Learning English... -->
@@ -30,9 +31,8 @@
 
 [![WuChenDi's github stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&include_all_commits=true")](https://github.com/WuChenDi?tab=repositories&q=&type=source)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?count_private=true&layout=compact&username=WuChenDi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![WuChenDi's wakatime stats](https://github-readme-stats-amber-xi-40.vercel.app/api/wakatime?username=wudi&langs_count=5&v=2")](https://github.com/WuChenDi?tab=repositories&q=&type=source) -->
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=WuChenDi&layout=compact&theme=transparent)](https://github.com/WuChenDi?tab=repositories) -->
+<!-- [![WakaTime Stats](https://github-readme-stats-amber-xi-40.vercel.app/api/wakatime?username=wudi&langs_count=5&v=2)](https://github.com/WuChenDi?tab=repositories) -->
 
 ### 🛠️ Daily writing and development tools
 
