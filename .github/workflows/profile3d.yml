@@ -4,6 +4,9 @@ on:
     # Run at 0 am every day
     - cron: '0 16 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
 jobs:
   update:
     runs-on: ubuntu-latest
