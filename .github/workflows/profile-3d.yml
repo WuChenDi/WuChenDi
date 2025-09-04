@@ -1,4 +1,6 @@
-name: Update readme
+# https://github.com/yoshi389111/github-profile-3d-contrib
+name: GitHub-Profile-3D-Contrib
+
 on:
   schedule:
     # Run at 0 am every day
@@ -13,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Generate 3D contribution profile
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
