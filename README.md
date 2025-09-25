@@ -13,17 +13,19 @@
     <a href="https://notes-wudi.pages.dev/"><strong>Learn more »</strong></a>
     <br />
     <br />
+    <a href="https://gallery-wudi.vercel.app">Photography</a>
+    ·
     <a href="https://notes-wudi.pages.dev/media.html">Media</a>
     ·
     <a href="https://notes-wudi.pages.dev/projects">Projects</a>
     ·
-    <!-- <a href="https://resume-wudi.pages.dev/en">Resume</a>
+    <!-- <a href="https://github.com/cdLab996">cdLab996</a>
+    ·
+    <a href="https://resume-wudi.pages.dev/en">Resume</a>
     · -->
     <a href="wuchendi96@gmail.com">Email</a>
     ·
     <a href="https://t.me/wuchendi">Telegram</a>
-    ·
-    <a href="https://github.com/cdLab996">cdLab996</a>
   </p>
   <p align="center">
     <picture>
@@ -81,7 +83,7 @@
 >
 > 📄 **Resume**: [English](https://resume-wudi.pages.dev/en) | [中文](https://resume-wudi.pages.dev/zh)
 >
-> *Let's build something amazing together! | 让我们一起创造精彩！* -->
+> *Let's build something amazing together! | 让我们一起创造精彩！*
 
 <!-- [![WuChenDi's github stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&include_all_commits=true")](https://github.com/WuChenDi?tab=repositories&q=&type=source) -->
 
