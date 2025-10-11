@@ -4,7 +4,7 @@
     <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/cdLab996/banner.jpeg" alt="wudi Banner">
   </picture>
   <h2 align="center">
-    👋 Hey there，I'm Chendi Wu
+    👋 Hey there，I'm Chendi Wu (wudi)
   </h2>
 
   <p align="center">
