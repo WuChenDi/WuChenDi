@@ -8,7 +8,8 @@
   </h2>
 
   <p align="center">
-    A full-stack engineer passionate about building products from the ground up.
+    <!-- A full-stack engineer passionate about building products from the ground up. -->
+    Software Engineer 🖥️ working w/ JS, TS, Node.js, React, Vue
     <br />
     <a href="https://notes-wudi.pages.dev/"><strong>Learn more »</strong></a>
     <br />
