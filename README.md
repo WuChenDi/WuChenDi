@@ -24,7 +24,7 @@
     ·
     <a href="https://resume-wudi.pages.dev/en">Resume</a>
     · -->
-    <a href="wuchendi96@gmail.com">Email</a>
+    <a href="mailto:wuchendi96@gmail.com">Email</a>
     ·
     <a href="https://t.me/wuchendi">Telegram</a>
   </p>
