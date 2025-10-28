@@ -43,6 +43,33 @@
   </p>
   <p align="center">
     <picture>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/prettier/prettier.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/biome/biome.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/cloudflare/cloudflare.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/netlify/netlify.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bun/bun.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/honojs/honojs.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/unocss/unocss.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/prisma/prisma.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/neon/neon.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/upstash/upstash.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/drizzle/drizzle.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+      <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+    </picture>
+  </p>
+  <p align="center">
+    <picture>
       <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
       <code><img src="https://wakatime.com/badge/user/3e742698-9e12-4c4e-8c88-1d9dba7e5557.svg" alt="Total time coded since Jul 19 2019" /></code>
     </picture>
