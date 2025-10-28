@@ -41,7 +41,7 @@
       <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png"></code>
     </picture>
   </p>
-  <p align="center">
+  <!-- <p align="center">
     <picture>
       <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
       <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png"></code>
@@ -67,7 +67,7 @@
       <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
       <code><img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
     </picture>
-  </p>
+  </p> -->
   <p align="center">
     <picture>
       <code><img height="20" src="https://komarev.com/ghpvc/?username=WuChenDi"></code>
