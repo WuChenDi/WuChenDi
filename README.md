@@ -11,14 +11,14 @@
     <!-- A full-stack engineer passionate about building products from the ground up. -->
     Software Engineer 🖥️ working w/ JS, TS, Node.js, React, Vue
     <br />
-    <a href="https://notes-wudi.pages.dev/"><strong>Learn more »</strong></a>
+    <a href="https://wcd.pages.dev/"><strong>Learn more »</strong></a>
     <br />
     <br />
     <a href="https://gallery-wudi.vercel.app">Photography</a>
     ·
-    <a href="https://notes-wudi.pages.dev/media.html">Media</a>
+    <a href="https://wcd.pages.dev/media">Media</a>
     ·
-    <a href="https://notes-wudi.pages.dev/projects">Projects</a>
+    <a href="https://wcd.pages.dev/projects">Projects</a>
     ·
     <!-- <a href="https://github.com/cdLab996">cdLab996</a>
     ·
