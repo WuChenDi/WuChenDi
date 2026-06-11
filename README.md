@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&lines=Welcome+to+my+GitHub" alt="wudi Banner">
+    <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&lines=Welcome+to+my+GitHub" alt="wudi Banner"> -->
     <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/cdLab996/banner.jpeg" alt="wudi Banner">
   </picture>
   <h2 align="center">
@@ -102,7 +102,7 @@
 >
 > *Let's build something amazing together! | 让我们一起创造精彩！* -->
 
-> [!IMPORTANT]
+<!-- > [!IMPORTANT]
 > 🚀 **Open to Remote Opportunities**
 >
 > I'm actively seeking remote **front-end/full-stack** development opportunities where I can contribute my expertise in modern web technologies and product development.
@@ -111,7 +111,7 @@
 >
 > 📄 **Resume**: [English](https://resume-wudi.pages.dev/en) | [中文](https://resume-wudi.pages.dev/zh)
 >
-> *Let's build something amazing together! | 让我们一起创造精彩！*
+> *Let's build something amazing together! | 让我们一起创造精彩！* -->
 
 <!-- [![WuChenDi's github stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&include_all_commits=true")](https://github.com/WuChenDi?tab=repositories&q=&type=source) -->
 
