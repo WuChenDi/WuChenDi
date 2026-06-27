@@ -76,6 +76,33 @@
   </p>
 </p>
 
+## My Projects
+
+A collection of tools, apps, and experiments I've built — most are open source, privacy-first, and run entirely in the browser. See them all at [projects](https://wcd.pages.dev/projects).
+
+| Project | Description |
+| ------- | ----------- |
+| <a href="https://ik-ui.pages.dev/" target="_blank"><b>IKUI</b></a> | Beautiful, refined UI components for modern React + Tailwind CSS apps — pre-built primitives that speed up web app development. |
+| <a href="https://flnk.cdlab.workers.dev/" target="_blank"><b>Flnk</b></a> | Privacy-first URL shortener with edge redirects (KV cache + D1 fallback), geo/device routing, Argon2id password protection, cookieless analytics, AI slug generation, and a full dashboard. |
+| <a href="https://clearify.pages.dev/" target="_blank"><b>Clearify</b></a> | One-click background removal, batch image compression (AVIF / WebP / JXL…), and up to 90% smaller video — all running locally in the browser, no uploads. |
+| <a href="https://securec.pages.dev/" target="_blank"><b>SecureC</b></a> | Privacy-first encryption that runs entirely in the browser — encrypt files and text with modern cryptography; no data ever leaves your device. |
+| <a href="https://dropply.pages.dev/" target="_blank"><b>Dropply</b></a> | End-to-end encrypted file sharing with client-side AES-GCM + Argon2id; the key lives only in the URL fragment, so the server never sees plaintext. |
+| <a href="https://bycut.pages.dev/" target="_blank"><b>ByCut</b></a> | A fully client-side, open-source video editor — a privacy-first CapCut alternative that edits locally with zero server uploads. |
+| <a href="https://flox.pages.dev/" target="_blank"><b>Flox</b></a> | Multi-source parallel video search with real-time streaming results (SSE) across 38+ sources, plus built-in HLS/M3U8 playback with ad filtering. (🔑 `aa.2026`) |
+| <a href="https://byplay.pages.dev/" target="_blank"><b>byplay</b></a> | Versatile online video player with HLS adaptive bitrate, configurable buffering, and one-click handoff to vidl for downloads. |
+| <a href="https://vidl.pages.dev/" target="_blank"><b>vidl</b></a> | Browser-based video downloader that auto-detects format (M3U8/HLS, MP4, WebM, MKV, FLV…) and streams to disk with near-zero memory via the Streams API. |
+| <a href="https://bytts.pages.dev/" target="_blank"><b>byTTS</b></a> | Convert text to natural-sounding speech via Azure Cognitive Services — SSML synthesis, streaming audio output, and fine-grained voice controls. |
+| <a href="https://byshot.pages.dev/" target="_blank"><b>byshot</b></a> | Cloudinary-backed photography gallery with a responsive masonry layout, full-screen lightbox, deep-linkable photos, and last-viewed scroll restore. |
+| <a href="https://text2img.cdlab.workers.dev/" target="_blank"><b>text2img</b></a> | Generate images from text prompts with FLUX, SDXL, and DreamShaper — random prompts, rich parameter controls, and real-time preview. |
+| <a href="https://values.pages.dev/" target="_blank"><b>value-vision</b></a> | Compare cryptocurrencies, fiat currencies, and commodities side by side on a unified scale — enter any asset or amount and see the equivalent. |
+| <a href="https://live-user.cdlab.workers.dev/" target="_blank"><b>LiveUser</b></a> | Drop in one script tag for real-time online-user count and total visits, backed by the WebSocket Hibernation API and Durable Objects SQLite. |
+| <a href="https://repo-changelog.vercel.app/" target="_blank"><b>repo-changelog</b></a> | Track releases and changelogs from many GitHub repos in one dashboard — search by repo, user, or org and sort by stars or update time. |
+| <a href="https://wepush.cdlab.workers.dev/" target="_blank"><b>wepush</b></a> | Database-backed console for managing and sending WeChat template messages — recipients, template editing, scheduling, and permanent push logs. |
+| <a href="https://argo2id-wasm.chendi.workers.dev/" target="_blank"><b>argo2id-wasm</b></a> | High-performance Argon2id password hashing via a WebAssembly module compiled from Rust — runs in browsers and on Cloudflare Workers. |
+| <a href="https://t.me/cdlab_baccarat_bot" target="_blank"><b>Baccarat</b></a> | A baccarat card game built as a Telegram Mini Program. |
+| <a href="https://lowcode-engine-demo-vue.vercel.app/" target="_blank"><b>Lowcode Engine Vue</b></a> | A low-code engine demo built on Vue 3 — drag-and-drop component composition and visual page editing. |
+| <a href="https://lowcode-engine-demo-vue2-7.vercel.app/" target="_blank"><b>Lowcode Engine Vue 2.7</b></a> | A Vue 2.7-compatible low-code engine demo for projects still on the Vue 2 line. |
+
 <!-- > [!IMPORTANT]
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume-wudi.pages.dev/en), feel free to hit me up!
 >
