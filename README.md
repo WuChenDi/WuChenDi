@@ -102,6 +102,7 @@ A collection of tools, apps, and experiments I've built — most are open source
 | <a href="https://t.me/cdlab_baccarat_bot" target="_blank"><b>Baccarat</b></a> | A baccarat card game built as a Telegram Mini Program. |
 | <a href="https://lowcode-engine-demo-vue.vercel.app/" target="_blank"><b>Lowcode Engine Vue</b></a> | A low-code engine demo built on Vue 3 — drag-and-drop component composition and visual page editing. |
 | <a href="https://lowcode-engine-demo-vue2-7.vercel.app/" target="_blank"><b>Lowcode Engine Vue 2.7</b></a> | A Vue 2.7-compatible low-code engine demo for projects still on the Vue 2 line. |
+| <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/cdhub/gh_6c2b0642133e_1280.jpg" width="360" /> | A WeChat Mini Program built with **uni-app** + Vue 3 + UnoCSS — a personal hub that mirrors the site [wcd.pages.dev](https://wcd.pages.dev) and adds a few self-contained tools on top. |
 
 <!-- > [!IMPORTANT]
 > Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume-wudi.pages.dev/en), feel free to hit me up!
