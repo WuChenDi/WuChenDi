@@ -76,6 +76,48 @@
   </p>
 </p>
 
+<!-- > [!IMPORTANT]
+> Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume-wudi.pages.dev/en), feel free to hit me up!
+>
+> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume-wudi.pages.dev/zh)，欢迎来撩我！ -->
+
+<!-- > [!IMPORTANT]
+> 🔍 **Currently seeking remote opportunities** as a Full-Stack Developer
+>
+> 📋 [View Resume](https://resume-wudi.pages.dev/en) | [查看简历](https://resume-wudi.pages.dev/zh)
+> 💌 [wuchendi96@gmail.com](mailto:wuchendi96@gmail.com) | [Telegram](https://t.me/wuchendi)
+
+> [!TIP]
+> ### 🌟 Open for Remote Collaboration
+>
+> **What I bring to the table:**
+> - 🚀 Full-stack development expertise
+> - 🛠️ Modern web technologies (JS/TS, React, Vue, Node.js, Python, Go, Rust)
+> - 📱 Product-minded engineering approach
+> - 🌍 Remote-first mindset with excellent communication skills
+>
+> **Ready to chat?**
+> 📄 [Resume](https://resume-wudi.pages.dev/en) | [简历](https://resume-wudi.pages.dev/zh)
+> ✉️ [wuchendi96@gmail.com](mailto:wuchendi96@gmail.com) | 💬 [Telegram](https://t.me/wuchendi)
+>
+> *Let's build something amazing together! | 让我们一起创造精彩！* -->
+
+> [!IMPORTANT]
+> 🚀 **Open to Remote Opportunities**
+>
+> I'm actively seeking remote **Full-Stack/Front-End** development opportunities where I can contribute my expertise in modern web technologies and product development.
+>
+> 🌟 我正在寻找远程 **全栈/前端** 开发机会，希望能在现代Web技术和产品开发领域发挥专长。
+>
+> - 📄 **Resume**: [English](https://resume-wudi.pages.dev/en) | [中文](https://resume-wudi.pages.dev/zh)
+>
+> *Let's build something amazing together! | 让我们一起创造精彩！*
+
+<!-- [![WuChenDi's github stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&include_all_commits=true")](https://github.com/WuChenDi?tab=repositories&q=&type=source) -->
+
+<!-- - Ethereum: [wuchendi.eth](https://etherscan.io/address/0xdef9b12373b310ff695cd9e944e10d8a69142896)
+- PayPal: [wuchendi](https://www.paypal.com/paypalme/wuchendi) -->
+
 ## My Projects
 
 A collection of tools, apps, and experiments I've built — most are open source, privacy-first, and run entirely in the browser. See them all at [projects](https://wcd.pages.dev/projects).
@@ -104,45 +146,3 @@ A collection of tools, apps, and experiments I've built — most are open source
 | <a href="https://lowcode-engine-demo-vue.vercel.app/" target="_blank"><b>Lowcode Engine Vue</b></a> | A low-code engine demo built on Vue 3 — drag-and-drop component composition and visual page editing. |
 | <a href="https://lowcode-engine-demo-vue2-7.vercel.app/" target="_blank"><b>Lowcode Engine Vue 2.7</b></a> | A Vue 2.7-compatible low-code engine demo for projects still on the Vue 2 line. |
 | <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/cdhub/gh_6c2b0642133e_1280.jpg" width="360" /> | A WeChat Mini Program built with **uni-app** + Vue 3 + UnoCSS — a personal hub that mirrors the site [wcd.pages.dev](https://wcd.pages.dev) and adds a few self-contained tools on top. |
-
-<!-- > [!IMPORTANT]
-> Hey, I am considering looking for remote work opportunities. My resume is [here](https://resume-wudi.pages.dev/en), feel free to hit me up!
->
-> 嘿，我正在考虑寻找远程工作机会，简历在 [这里](https://resume-wudi.pages.dev/zh)，欢迎来撩我！ -->
-
-<!-- > [!IMPORTANT]
-> 🔍 **Currently seeking remote opportunities** as a Full-Stack Developer
->
-> 📋 [View Resume](https://resume-wudi.pages.dev/en) | [查看简历](https://resume-wudi.pages.dev/zh)
-> 💌 [wuchendi96@gmail.com](mailto:wuchendi96@gmail.com) | [Telegram](https://t.me/wuchendi)
-
-> [!TIP]
-> ### 🌟 Open for Remote Collaboration
->
-> **What I bring to the table:**
-> - 🚀 Full-stack development expertise
-> - 🛠️ Modern web technologies (JS/TS, React, Vue, Node.js, Python, Go, Rust)
-> - 📱 Product-minded engineering approach
-> - 🌍 Remote-first mindset with excellent communication skills
->
-> **Ready to chat?**
-> 📄 [Resume](https://resume-wudi.pages.dev/en) | [简历](https://resume-wudi.pages.dev/zh)
-> ✉️ [wuchendi96@gmail.com](mailto:wuchendi96@gmail.com) | 💬 [Telegram](https://t.me/wuchendi)
->
-> *Let's build something amazing together! | 让我们一起创造精彩！* -->
-
-<!-- > [!IMPORTANT]
-> 🚀 **Open to Remote Opportunities**
->
-> I'm actively seeking remote **front-end/full-stack** development opportunities where I can contribute my expertise in modern web technologies and product development.
->
-> 🌟 我正在寻找远程 **前端/全栈** 开发机会，希望能在现代Web技术和产品开发领域发挥专长。
->
-> 📄 **Resume**: [English](https://resume-wudi.pages.dev/en) | [中文](https://resume-wudi.pages.dev/zh)
->
-> *Let's build something amazing together! | 让我们一起创造精彩！* -->
-
-<!-- [![WuChenDi's github stats](https://github-readme-stats.vercel.app/api?username=WuChenDi&show_icons=true&include_all_commits=true")](https://github.com/WuChenDi?tab=repositories&q=&type=source) -->
-
-<!-- - Ethereum: [wuchendi.eth](https://etherscan.io/address/0xdef9b12373b310ff695cd9e944e10d8a69142896)
-- PayPal: [wuchendi](https://www.paypal.com/paypalme/wuchendi) -->
