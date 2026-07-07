@@ -118,6 +118,8 @@
 <!-- - Ethereum: [wuchendi.eth](https://etherscan.io/address/0xdef9b12373b310ff695cd9e944e10d8a69142896)
 - PayPal: [wuchendi](https://www.paypal.com/paypalme/wuchendi) -->
 
+---
+
 ## My Projects
 
 A collection of tools, apps, and experiments I've built — most are open source, privacy-first, and run entirely in the browser. See them all at [projects](https://wcd.pages.dev/projects).
@@ -146,3 +148,50 @@ A collection of tools, apps, and experiments I've built — most are open source
 | <a href="https://lowcode-engine-demo-vue.vercel.app/" target="_blank"><b>Lowcode Engine Vue</b></a> | A low-code engine demo built on Vue 3 — drag-and-drop component composition and visual page editing. |
 | <a href="https://lowcode-engine-demo-vue2-7.vercel.app/" target="_blank"><b>Lowcode Engine Vue 2.7</b></a> | A Vue 2.7-compatible low-code engine demo for projects still on the Vue 2 line. |
 | <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/cdhub/gh_6c2b0642133e_1280.jpg" width="360" /> | A WeChat Mini Program built with **uni-app** + Vue 3 + UnoCSS — a personal hub that mirrors the site [wcd.pages.dev](https://wcd.pages.dev) and adds a few self-contained tools on top. |
+
+---
+
+## npm Packages
+
+| Package | Description |
+| ------- | ----------- |
+| [@cdlab996/genid](https://www.npmjs.com/package/@cdlab996/genid) | High-performance distributed unique ID generator implementing the Snowflake algorithm with a drift mode, clock-rollback handling, customizable bit allocation, and built-in ID validation and monitoring. |
+
+<details>
+<summary>📦 Legacy packages — earlier Lowcode Engine & Toolkit work, kept for reference</summary>
+
+### 🧱 Lowcode Engine
+
+| Package | Description |
+| ------- | ----------- |
+| [@cdlab996/lowcode-hooks2.7](https://www.npmjs.com/package/@cdlab996/lowcode-hooks2.7) | 🏗️ Hooks for renderer/simulator |
+| [@cdlab996/lowcode-utils2.7](https://www.npmjs.com/package/@cdlab996/lowcode-utils2.7) | 🏗️ Utility methods for renderer/simulator |
+| [@cdlab996/lowcode-vue-renderer2.7](https://www.npmjs.com/package/@cdlab996/lowcode-vue-renderer2.7) | 🏗️ lowcode renderer using Vue2.7 framework |
+| [@cdlab996/lowcode-vue-simulator-renderer2.7](https://www.npmjs.com/package/@cdlab996/lowcode-vue-simulator-renderer2.7) | 🏗️ lowcode simulator renderer using Vue2.7 engine |
+| [@cdlab996/lowcode-engine-ext-vue](https://www.npmjs.com/package/@cdlab996/lowcode-engine-ext-vue) | 🕹️ Adapt lowcode-engine-ext to the Vue version. |
+| [@cdlab996/plugin-directive-loading](https://www.npmjs.com/package/@cdlab996/plugin-directive-loading) | 🧩 Vue directive v-loading |
+| [@cdlab996/lowcode-plugin-manual](https://www.npmjs.com/package/@cdlab996/lowcode-plugin-manual) | 🧩 lowcode product user manual |
+| [@cdlab996/lowcode-plugin-set-doc-url](https://www.npmjs.com/package/@cdlab996/lowcode-plugin-set-doc-url) | 🧩 Component material new documentation address |
+| [@cdlab996/lowcode-plugin-vue-code-editor2.7](https://www.npmjs.com/package/@cdlab996/lowcode-plugin-vue-code-editor2.7) | 🧩 lowcode CodeEditor for Vue 2.7 (Not available yet) |
+| [@cdlab996/vite-plugin-lib-types2.7](https://www.npmjs.com/package/@cdlab996/vite-plugin-lib-types2.7) | 🔨 Generate typescript declarations, Supports Vue2.7 Files |
+| [@cdlab996/create-lowcode2.7](https://www.npmjs.com/package/@cdlab996/create-lowcode2.7) | 🔨 Scaffold tool for initializing Lowcode projects |
+| [@cdlab996/vue-cli-plugin-lowcode2.7](https://www.npmjs.com/package/@cdlab996/vue-cli-plugin-lowcode2.7) | 🔨 Development and build tool plugin for Lowcode engine |
+| [@cdlab996/element-plus-lowcode-materials](https://www.npmjs.com/package/@cdlab996/element-plus-lowcode-materials) | 🎨 Element Plus(2.6.3) Materials for Vue3 |
+| [@cdlab996/antd-lowcode-materials](https://www.npmjs.com/package/@cdlab996/antd-lowcode-materials) | 🎨 Ant Design Vue(4.1.2) Materials for Vue3 |
+| [@cdlab996/vant-lowcode-materials](https://www.npmjs.com/package/@cdlab996/vant-lowcode-materials) | 🎨 Vant(4.8.10) Materials for Vue3 |
+| [@cdlab996/element-lowcode-materials2.7](https://www.npmjs.com/package/@cdlab996/element-lowcode-materials2.7) | 🎨 Element(2.15.13) Materials for Vue2.7 |
+| [@cdlab996/antd-lowcode-materials2.7](https://www.npmjs.com/package/@cdlab996/antd-lowcode-materials2.7) | 🎨 Ant Design Vue(1.7.8) Materials for Vue2.7 |
+| [@cdlab996/vant-lowcode-materials2.7](https://www.npmjs.com/package/@cdlab996/vant-lowcode-materials2.7) | 🎨 Vant(2.12.54) Materials for Vue2.7 |
+
+### 🧰 Toolkit
+
+| Package | Description |
+| ------- | ----------- |
+| [@cdlab996/eslint-config-ts](https://www.npmjs.com/package/@cdlab996/eslint-config-ts) | 🔨 Eslint TypeScript |
+| [@cdlab996/eslint-config-next](https://www.npmjs.com/package/@cdlab996/eslint-config-next) | 🔨 Eslint Nextjs |
+| [@cdlab996/eslint-config-react](https://www.npmjs.com/package/@cdlab996/eslint-config-react) | 🔨 Eslint React |
+| [@cdlab996/eslint-config-vue](https://www.npmjs.com/package/@cdlab996/eslint-config-vue) | 🔨 Eslint Vue |
+| [@cdlab996/eslint-config-vue2](https://www.npmjs.com/package/@cdlab996/eslint-config-vue2) | 🔨 Eslint Vue2 |
+| [@cdlab996/prettier-config](https://www.npmjs.com/package/@cdlab996/prettier-config) | 🔨 prettier |
+
+</details>
