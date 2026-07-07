@@ -149,6 +149,11 @@ A collection of tools, apps, and experiments I've built — most are open source
 | <a href="https://lowcode-engine-demo-vue2-7.vercel.app/" target="_blank"><b>Lowcode Engine Vue 2.7</b></a> | A Vue 2.7-compatible low-code engine demo for projects still on the Vue 2 line. |
 | <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/cdhub/gh_6c2b0642133e_1280.jpg" width="360" /> | A WeChat Mini Program built with **uni-app** + Vue 3 + UnoCSS — a personal hub that mirrors the site [wcd.pages.dev](https://wcd.pages.dev) and adds a few self-contained tools on top. |
 
+### Ecosystem Contributions
+
+- <a href="https://github.com/dotns/nsl" target="_blank"><b>NSL</b></a> — Pretty-hostname reverse proxy for local development
+- <a href="https://github.com/bkhq/bkd" target="_blank"><b>BKD</b></a> — Kanban app for AI coding agents
+
 ---
 
 ## npm Packages
