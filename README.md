@@ -127,6 +127,7 @@ A collection of tools, apps, and experiments I've built — most are open source
 | Project | Description |
 | ------- | ----------- |
 | <a href="https://ik-ui.pages.dev/" target="_blank"><b>IKUI</b></a> | Beautiful, refined UI components for modern React + Tailwind CSS apps — pre-built primitives that speed up web app development. |
+| <a href="https://fingerprintd.pages.dev/" target="_blank"><b>fingerprintd</b></a> | Server-authoritative device fingerprinting for anti-fraud — the client only collects evidence; the server burns a one-time nonce, fuzzy-matches it (blocking + Fellegi–Sunter), and returns a visitorId + confidence + decision. One Rust engine powers both a native Axum server and a Cloudflare Worker. |
 | <a href="https://actorlab.pages.dev/" target="_blank"><b>3D Characters</b></a> | A browser-based 3D director stage: stage characters, props, cameras and panoramas, pose figures joint-by-joint, and capture shots. |
 | <a href="https://flnk.cdlab.workers.dev/" target="_blank"><b>Flnk</b></a> | Privacy-first URL shortener with edge redirects (KV cache + D1 fallback), geo/device routing, Argon2id password protection, cookieless analytics, AI slug generation, and a full dashboard. |
 | <a href="https://clearify.pages.dev/" target="_blank"><b>Clearify</b></a> | One-click background removal, batch image compression (AVIF / WebP / JXL…), and up to 90% smaller video — all running locally in the browser, no uploads. |
