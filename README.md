@@ -161,7 +161,7 @@ A collection of tools, apps, and experiments I've built — most are open source
 
 | Package | Description |
 | ------- | ----------- |
-| [@cdlab996/genid](https://www.npmjs.com/package/@cdlab996/genid) | High-performance distributed unique ID generator implementing the Snowflake algorithm with a drift mode, clock-rollback handling, customizable bit allocation, and built-in ID validation and monitoring. |
+| [@cdlab/driftflake](https://www.npmjs.com/package/@cdlab/driftflake) | 64-bit Snowflake ID generator with drift mode and non-blocking clock-rollback handling. Zero dependencies, TypeScript, number/bigint. |
 
 <details>
 <summary>📦 Legacy packages — earlier Lowcode Engine & Toolkit work, kept for reference</summary>
