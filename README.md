@@ -161,6 +161,7 @@ A collection of tools, apps, and experiments I've built — most are open source
 | Package | Description |
 | ------- | ----------- |
 | [@cdlab/driftflake](https://www.npmjs.com/package/@cdlab/driftflake) | 64-bit Snowflake ID generator with drift mode and non-blocking clock-rollback handling. Zero dependencies, TypeScript, number/bigint. |
+| [@cdlab/zustand-idb](https://www.npmjs.com/package/@cdlab/zustand-idb) | Persist Zustand stores in IndexedDB. TypeScript, serializable state, works with the persist middleware. |
 
 <details>
 <summary>📦 Legacy packages — earlier Lowcode Engine & Toolkit work, kept for reference</summary>
